@@ -1,0 +1,8 @@
+Assignment 2
+km=int(input ('enter km'))
+cm=km * 100000
+Print (cm)
+
+Output :
+enter km 6
+600000
